@@ -9,7 +9,7 @@ int main()
 		cout << "masukan jejari = ";
 
 	cin >> njejari;
-
+	cout << "====== luas lingkaran======" << endl;
 	nluas = 3.14 * njejari * njejari;
 
 	cout << "luas lingkaran adalah = " << nluas << endl;
